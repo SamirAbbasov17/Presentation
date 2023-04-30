@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj": {}
+    "C:\\Users\\User\\Desktop\\Code Acadamy\\Presentation\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj": {
+    "C:\\Users\\User\\Desktop\\Code Acadamy\\Presentation\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Code Acadamy\\Presentation\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj",
         "projectName": "LinkedListNodeExe",
-        "projectPath": "C:\\Users\\User\\Desktop\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Code Acadamy\\Presentation\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\LinkedListNodeExe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Code Acadamy\\Presentation\\Presentation\\LinkedListNodeExe\\LinkedListNodeExe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
